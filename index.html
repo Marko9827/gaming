@@ -16,7 +16,7 @@
     <link href="tmp/1query/album.css" rel="stylesheet">
 </head>
 
-<body class="body" > <!--onkeydown="return false;" onkeypress="return false;" onkeyup="return false;">-->
+<body class="body" onkeydown="return false;" onkeypress="return false;" onkeyup="return false;">
 
     <header>
         <div class="collapse bg-dark" id="navbarHeader">
